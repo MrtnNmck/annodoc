@@ -10,5 +10,4 @@ title: IITSRC-EXAMPLES
 4    is    _    _    VBZ    _    6    cop
 5    Czech    _    _    JJ    _    6    amod
 6    language    _    _    NN    _    0    ROOT
-conj(big, honest)
 ~~~
