@@ -21,3 +21,15 @@ title: IITSRC-EXAMPLES
 6    Slavic    _    _    NN    _    7    amod
 7    language    _    _    NN    _    0    ROOT
 ~~~
+
+~~~ conllx
+1    The    _    _    DT    _    2    det
+2    president  _   _   NN  _   9   nsubj
+3    of _   _   IN  _   6   case
+4    the    _   _   DT  _   6   det
+5    Czech  _   _   NNP _   6   compound
+6    republic   _   _   NNP _   2   nmod:of
+7    is _   _   VBZ _   9   cop
+8    Miloš  _   _   NNP _   9   compound
+9    Zeman  _   _   NNP _   0   root
+~~~
