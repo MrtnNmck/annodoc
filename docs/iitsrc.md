@@ -33,3 +33,9 @@ title: IITSRC-EXAMPLES
 8    Miloš  _   _   NNP _   9   compound
 9    Zeman  _   _   NNP _   0   root
 ~~~
+
+~~~ conllx
+1    President  _   _   NN  _   3   nsubj
+2    is _   _   VBZ _   3   cop
+3    Zeman  _   _   NNP _   0   root
+~~~
