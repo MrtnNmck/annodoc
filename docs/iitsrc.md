@@ -35,6 +35,18 @@ title: IITSRC-EXAMPLES
 ~~~
 
 ~~~ conllx
+1    Miloš  _   _   NNP _   2   compound
+2    Zeman  _   _   NNP _   5   nsubj
+3    is _   _   VBZ _   5   cop
+4    the    _    _    DT    _    5    det
+5    president  _   _   NN  _   0   root
+6    of _   _   IN  _   9   case
+7    the    _   _   DT  _   9   det
+8    Czech  _   _   NNP _   9   compound
+9    republic   _   _   NNP _   5   nmod:of
+~~~
+
+~~~ conllx
 1    President  _   _   NN  _   3   nsubj
 2    is _   _   VBZ _   3   cop
 3    Zeman  _   _   NNP _   0   root
