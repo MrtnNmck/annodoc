@@ -51,3 +51,37 @@ title: IITSRC-EXAMPLES
 2    is _   _   VBZ _   3   cop
 3    Zeman  _   _   NNP _   0   root
 ~~~
+
+~~~ conllx
+1	It	it	PRP	O	3	nsubjpass
+2	is	be	VBZ	O	3	auxpass
+3	bordered	border	VBN	O	0	ROOT
+4	by	by	IN	O	5	case
+5	Austria	Austria	NNP	LOCATION	3	nmod
+6	in	in	IN	O	8	case
+7	the	the	DT	O	8	det
+8	southwest	southwest	NN	O	5	nmod
+9	,	,	,	O	_	_
+10	Hungary	Hungary	NNP	LOCATION	5	conj
+11	in	in	IN	O	13	case
+12	the	the	DT	O	13	det
+13	south	south	NN	O	10	nmod
+14	,	,	,	O	_	_
+15	Ukraine	Ukraine	NNP	LOCATION	5	conj
+16	in	in	IN	O	18	case
+17	the	the	DT	O	18	det
+18	east	east	JJ	O	15	nmod
+19	,	,	,	O	_	_
+20	Poland	Poland	NNP	LOCATION	5	conj
+21	in	in	IN	O	23	case
+22	the	the	DT	O	23	det
+23	north	north	NN	O	20	nmod
+24	and	and	CC	O	5	cc
+25	Czech	Czech	NNP	LOCATION	26	compound
+26	Republic	Republic	NNP	LOCATION	5	conj
+27	in	in	IN	O	29	case
+28	the	the	DT	O	29	det
+29	northwest	northwest	RB	O	26	nmod
+30	.	.	.	O	_	_
+~~~
+
