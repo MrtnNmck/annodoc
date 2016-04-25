@@ -106,15 +106,10 @@ T4  PERSON 47 52  Kiska
 ~~~
 
 ~~~ conllx
-1	The	_ the	DT	O	2	det
-2	president	_ president	NN	O	9	nsubj
-3	of	_ of	IN	O	6	case
-4	the	_ the	DT	O	6	det
-5	Czech	_ Czech	NNP	LOCATION	6	compound
-6	Republic	_ Republic	NNP	LOCATION	2	nmod
-7	is	_ be	VBZ	O	9	cop
-8	Miloš	_ Miloš	NNP	PERSON	9	compound
-9	Zeman	_ Zeman	NNP	PERSON	0	ROOT
-10	.	_ .	.	O	_	_
+The president of the Czech Republic is Miloš Zeman.
+T1  LOCATION 21 27  Czech
+T2  LOCATION 28 36  Republic
+T3  PERSON 40 46  Miloš
+T4  PERSON 47 52  Zeman
 ~~~
 
