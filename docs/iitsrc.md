@@ -109,7 +109,7 @@ T4  PERSON 47 52  Kiska
 The president of the Czech Republic is Miloš Zeman.
 T1  LOCATION 21 26  Czech
 T2  LOCATION 27 35  Republic
-T3  PERSON 39 45  Miloš
-T4  PERSON 46 51  Zeman
+T3  PERSON 39 44  Miloš
+T4  PERSON 45 50  Zeman
 ~~~
 
