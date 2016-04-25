@@ -85,3 +85,29 @@ title: IITSRC-EXAMPLES
 30	. _	.	.	O	_	_
 ~~~
 
+~~~ conllx
+1	The	the	DT	O	2	det
+2	president	president	NN	O	9	nsubj
+3	of	of	IN	O	6	case
+4	the	the	DT	O	6	det
+5	Slovak	Slovak	NNP	LOCATION	6	compound
+6	Republic	Republic	NNP	LOCATION	2	nmod
+7	is	be	VBZ	O	9	cop
+8	Andrej	Andrej	NNP	PERSON	9	compound
+9	Kiska	Kiska	NNP	PERSON	0	ROOT
+10	.	.	.	O	_	_
+~~~
+
+~~~ conllx
+1	The	the	DT	O	2	det
+2	president	president	NN	O	9	nsubj
+3	of	of	IN	O	6	case
+4	the	the	DT	O	6	det
+5	Czech	Czech	NNP	LOCATION	6	compound
+6	Republic	Republic	NNP	LOCATION	2	nmod
+7	is	be	VBZ	O	9	cop
+8	Miloš	Miloš	NNP	PERSON	9	compound
+9	Zeman	Zeman	NNP	PERSON	0	ROOT
+10	.	.	.	O	_	_
+~~~
+
