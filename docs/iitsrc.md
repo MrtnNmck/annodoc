@@ -97,17 +97,18 @@ title: IITSRC-EXAMPLES
 30	. _	.	.	O	_	_
 ~~~
 
-~~~ conllx
-1	The _ the	DT	O	2	det
-2	president	_ president	NN	O	9	nsubj
-3	of	_ of	IN	O	6	case
-4	the	_ the	DT	O	6	det
-5	Slovak	_ Slovak	NNP	LOCATION	6	compound
-6	Republic	_ Republic	NNP	LOCATION	2	nmod
-7	is	_ be	VBZ	O	9	cop
-8	Andrej	_ Andrej	NNP	PERSON	9	compound
-9	Kiska	_ Kiska	NNP	PERSON	0	ROOT
-10	.	_ .	.	O	_	_
+~~~ ann
+The president of the Slovak Republic is Andrej Kiska.
+T1  OTHER 0 2 The
+T2  OTHER 4 12  president
+T3  OTHER 14 15 of
+T4  OTHER 17 19 the
+T5  LOCATION 21 26  Slovak
+T6  LOCATION 28 35  Republic
+T7  OTHER 37 38 is
+T8  PERSON 40 45  Andrej
+T9  PERSON 47 51  Kiska
+T10 OTHER 53 53 .
 ~~~
 
 ~~~ conllx
