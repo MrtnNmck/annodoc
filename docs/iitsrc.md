@@ -101,7 +101,7 @@ title: IITSRC-EXAMPLES
 The president of the Slovak Republic is Andrej Kiska.
 T1  LOCATION 21 27  Slovak
 T2  LOCATION 28 36  Republic
-T3  PERSON 40 47  Andrej
+T3  PERSON 40 48  Andrej
 T4  PERSON 47 52  Kiska
 ~~~
 
