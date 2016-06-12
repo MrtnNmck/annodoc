@@ -113,3 +113,8 @@ T3  PERSON 39 44  Miloš
 T4  PERSON 45 50  Zeman
 ~~~
 
+~~~ conllx
+1    President  _   _   NN  _   3   nsubj
+2    is _   _   VBZ _   3   cop
+3    Kiska  _   _   NNP _   0   root
+~~~
